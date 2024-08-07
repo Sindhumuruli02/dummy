@@ -1,0 +1,11 @@
+git init -initialising git repo
+git add . -to add into git
+git commit -m "message" -to commit into git
+git remote add origin https://github.com/Sindhumuruli02/dummy.git
+git push origin main/master -to finally push into git repo
+
+
+
+
+cd foldername - to enter into the child folder of the current one
+cd.. - to exit the current folder and go to its parent folder
